@@ -13,7 +13,8 @@
 6. Очистить и заполнить форму: "Имя","Телефон","Электронная почта".
 7. Нажать кнопку "Записаться".
 
-   ![img.png](img.png) Свой скришот
+   <img width="1857" height="921" alt="снимок 1" src="https://github.com/user-attachments/assets/df48a1a3-6202-4010-8bcd-ef4c05df2859" />
+ 
 
 2-й сценарий authThroughCatalog
 
@@ -23,12 +24,16 @@
 4. Нажать на название курса.
 5. Повторить шаги 4-7 из первого способа.
 
-   ![img_1.png](img_1.png) Свой скриншот
+  <img width="1857" height="912" alt="снимок 2" src="https://github.com/user-attachments/assets/f2b3cefb-b893-4b1b-be26-73f8ce8696a7" />
+
 
 Примечание: можно выбрать курс с помощью фильтра с чек-боксами на странице курсов. Нужно также протестировать выбор курса с вводом в строку поиска неполного наименования курса.
 
-![img_3.png](img_3.png) Свой скриншот
-![img_2.png](img_2.png) Свой скриншот
+ <img width="1851" height="907" alt="снимок 4" src="https://github.com/user-attachments/assets/ae31b9bd-8b6c-4622-a162-4b0d2a8a00a2" />
+
+
+<img width="1869" height="641" alt="снимок 5" src="https://github.com/user-attachments/assets/98869001-7cfe-4075-9232-5f07af1fca5a" />
+
 
 **Перечень автоматизируемых сценариев**
 1. Ввод в форму валидных данных shouldAuthIfFieldsAreFilledCorrectly; <br>
